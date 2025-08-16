@@ -56,6 +56,18 @@ The project uses the **Iris dataset**, which is built into **Scikit-learn** (`lo
 
 ---
 
+## 📷 Sample Visualizations  
+
+### Pair Plot
+![Pair Plot](plots/pairplot.png)
+
+### Box Plot
+![Box Plot](plots/boxplot.png)
+
+### Confusion Matrix Heatmap
+![Confusion Matrix](plots/confusion_matrix.png)
+
+
 ## 🔮 Future Enhancements
 
 * Apply other ML algorithms (Logistic Regression, SVM, Decision Trees) for comparison.
